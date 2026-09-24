@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+dump.rdb
+appendonly.aof
+redis_data/
+.vscode/
+.idea/
+.DS_Store
+.pytest_cache/
